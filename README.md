@@ -28,7 +28,7 @@
 
   ## Usage 
 
-  [!Screenshot]()
+  [!Screenshot](./images/screenshot.png)
 
   ## License
     
