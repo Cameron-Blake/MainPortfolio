@@ -60,3 +60,7 @@ html {
     border: 2px solid #f5ba09;
     border-radius: 0.5rem;
   }
+
+  i {
+    font-size: 60px;
+  }
