@@ -3,7 +3,7 @@
     
   ## Description 
 
-  This is a new and upgraded version of my portfolio with my 2 projects showing and 3 extra homeworks to show off.
+  This is a new and upgraded version of my portfolio with my 2 projects showing and 3 extra homeworks to show the work I learnt during my Full Stack Coding Certification Bootcamp.
 
   ## Table of Contents
 
